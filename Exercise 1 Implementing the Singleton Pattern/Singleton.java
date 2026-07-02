@@ -1,4 +1,4 @@
-public class Main {
+public class Singleton {
     public static void main(String[] args) {
         System.out.println("--- Starting Singleton Pattern Test ---\n");
 
